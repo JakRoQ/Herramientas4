@@ -17,7 +17,9 @@ public class H4github {
     public static void main(String[] args) {
         int x =4;
         int y = 5;
-        int suma = x +y;
+        int z=6;
+        int m=10;
+        int suma = x +y+z+m;
         System.out.println("la suma:"+suma);
     }
     
